@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arthur!
+- I can create:
+    - Games with Python and PyGame
+    - Develop wabsites width HTML, CSS and basic JavaScript
