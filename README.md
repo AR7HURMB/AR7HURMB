@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arthur
+- 👀 I’m interested in 
+- 🌱 I’m currently learning JS
+- 💪 I can create games with Python (PyGame), delevop websites ...
