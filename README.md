@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Arthur
-- 👀 I’m interested in 
-- 🌱 I’m currently learning JS
-- 💪 I can create games with Python (PyGame) and delevop websites
-- 📝 Now developing a Python Sudoku Solver!
+- 🌱 I'm currently developing BlockPath: a Python platformer game!
