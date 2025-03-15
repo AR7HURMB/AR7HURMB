@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Arthur
-- 📝 I'm currently delevoping a Calculator Chatbot
+- 👋 Hi, I’m Arthur!
+- 🌱 Currently learning JavaScript
+- 📝 I'm currently delevoping a Calculator Chatbot!
