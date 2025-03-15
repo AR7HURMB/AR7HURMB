@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Arthur
-- 📝 Currently developing BlockPath: a Python platformer game
+- 📝 I'm currently delevoping a Calculator Chatbot
