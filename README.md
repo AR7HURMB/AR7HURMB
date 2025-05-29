@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AR7HURMB
-- 👀 I’m interested in some compiled languages, and games and web programming.
-- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, C# and Unity Engine!
+- 👀 I’m interested in Unity Engine, PuyGame and web development
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS and C#!
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
